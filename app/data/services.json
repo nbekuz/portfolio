@@ -1,0 +1,237 @@
+[
+  {
+    "title": "Разработка веб-сервисов",
+    "caseTitles": [
+      "От 4 месяцев",
+      "От 2 млн рублей"
+    ],
+    "image": "/images/web-services.webp",
+    "items": [
+      {
+        "title": "B2B и B2C Порталы",
+        "href": "https://else-digital.ru/services/razrabotka-web-servisov/b2b-i-b2c-portaly/",
+        "description": "Разрабатываем удобные и масштабируемые платформы для взаимодействия с клиентами и партнерами, автоматизируя бизнес-процессы."
+      },
+      {
+        "title": "CRM",
+        "href": "https://else-digital.ru/services/razrabotka-web-servisov/crm/",
+        "description": "Разрабатываем CRM-системы, помогающие автоматизировать продажи, управление клиентами и внутренние бизнес-процессы."
+      },
+      {
+        "title": "Дизайн веб–порталов",
+        "href": "https://else-digital.ru/services/razrabotka-web-servisov/dizajn-web-portalov/",
+        "description": "Создаем интерфейсы, сочетающие удобство, эстетику и логику, чтобы пользователи легко находили нужные функции и данные."
+      },
+      {
+        "title": "Личные кабинеты",
+        "href": "https://else-digital.ru/services/razrabotka-web-servisov/lichnye-kabinety/",
+        "description": "Проектируем личные кабинеты для клиентов и сотрудников, обеспечивая быстрый доступ к данным, аналитике и управлению сервисами."
+      },
+      {
+        "title": "Маркетплейсы",
+        "href": "https://else-digital.ru/services/razrabotka-web-servisov/marketplejsy/",
+        "description": "Создаем маркетплейсы с простой навигацией, безопасными платежами и гибкими возможностями управления продавцами и товарами."
+      },
+      {
+        "title": "Технические задания",
+        "href": "https://else-digital.ru/services/razrabotka-web-servisov/tehnicheskie-zadaniya/",
+        "description": "Готовим подробные ТЗ с логикой, архитектурой и требованиями к функционалу, что снижает риски и ускоряет разработку."
+      }
+    ]
+  },
+  {
+    "title": "Разработка сайтов",
+    "caseTitles": [
+      "От 2 месяцев",
+      "От 500,000 рублей"
+    ],
+    "image": "/images/websites.webp",
+    "items": [
+      {
+        "title": "Дизайн сайта",
+        "href": "https://else-digital.ru/services/razrabotka-sajtov/dizajn-sajta/",
+        "description": "Создаем уникальные UX/UI-решения. Проектируем интерфейсы, которые полностью закрывают бизнес-задачи: упрощают навигацию, подчеркивают имидж бренда и сохраняют уровень вовлечения пользователя на всех этапах CJM."
+      },
+      {
+        "title": "Корпоративные сайты",
+        "href": "https://else-digital.ru/services/razrabotka-sajtov/korporativnye-sajty/",
+        "description": "Подходим к созданию проектов системно: проектируем структуру, продумываем пользовательский опыт, выбираем технологии и реализуем все под ключ — от анализа до продакшна и SEO-продвижения."
+      },
+      {
+        "title": "Интернет-магазины",
+        "href": "https://else-digital.ru/services/razrabotka-sajtov/internet-magaziny/",
+        "description": "Онлайн-продажи — один из самых эффективных каналов в современном бизнесе. Мы создаем интернет-магазины, которые не просто выглядят современно, а действительно работают: обрабатывают заказы, помогают находить нужные товары и интегрируются с системами учета."
+      },
+      {
+        "title": "Сайты на 1С-Битрикс",
+        "href": "https://else-digital.ru/services/razrabotka-sajtov/sajty-na-1s-bitriks/",
+        "description": "Создаем платформы, которые справляются с большими объемами данных, легко интегрируются с внешними сервисами и обеспечивают стабильную работу даже при высоких нагрузках. Помогаем выбрать подходящий тариф, лицензируем CMS, переносим старые сайты и сопровождаем проект после запуска."
+      },
+      {
+        "title": "Веб-каталоги",
+        "href": "https://else-digital.ru/services/razrabotka-sajtov/web-katalogi/",
+        "description": "Создаем сайты, которые помогают бизнесу организовать продукцию, упростить навигацию и сократить путь клиента до целевого действия. Проектируем интерфейс под специфику ассортимента, подключаем фильтры, поиск, сравнение, привязываем цены и остатки — по API или вручную."
+      }
+    ]
+  },
+  {
+    "title": "Мобильная разработка",
+    "caseTitles": [
+      "От 2 месяцев",
+      "От 1.5 млн рублей"
+    ],
+    "image": "/images/mobile.webp",
+    "items": [
+      {
+        "title": "iOS-разработка",
+        "href": "https://else-digital.ru/services/mobilnaya-razrabotka/ios-razrabotka/",
+        "description": "Разрабатываем нативные iOS-приложения под экосистему Apple — с учётом гайдлайнов, анимации и поведения пользователей. Используем Swift и SwiftUI, чтобы сделать приложения быстрыми, стабильными и удобными для iPhone, iPad и других устройств Apple."
+      },
+      {
+        "title": "Android-разработка",
+        "href": "https://else-digital.ru/services/mobilnaya-razrabotka/android-razrabotka/",
+        "description": "Создаем Android-приложения под телефоны, планшеты и другие мобильные устройства. Оптимизируем под разные версии ОС и экраны, внедряем Material Design, обеспечиваем высокую производительность даже при сложной бизнес-логике."
+      },
+      {
+        "title": "Кроссплатформенная разработка",
+        "href": "https://else-digital.ru/services/mobilnaya-razrabotka/krossplatformennaya-razrabotka/",
+        "description": "Создаем мобильные приложения на iOS и Android под ключ. Выпустим решение для обеих операционных систем с помощью Flutter, React Native и других современных инструментах. Оптимизируем бизнес-процессы, ускорим вывод продукта на рынок и сделаем френдли UX."
+      },
+      {
+        "title": "Дизайн приложения",
+        "href": "https://else-digital.ru/services/mobilnaya-razrabotka/razrabotka-dizayna-mobilnyh-prilozheniy/",
+        "description": "Закажите разработку уникального дизайна приложения Android и iOS у компании из Ростова-на-Дону Элс — сделаем UX-дизайн с нуля или проведем аудит и улучшим интерфейс."
+      },
+      {
+        "title": "Размещение приложения на AppStore и GooglePlay",
+        "href": "https://else-digital.ru/services/mobilnaya-razrabotka/kak-vypustit-mobilnoe-prilozhenie/",
+        "description": "Разместим мобильное приложение в App Store и Google Play Market — команда Элс из Ростова-на-Дону имеет большой опыт не только в разработке приложений, но и в публикации на маркетах."
+      }
+    ]
+  },
+  {
+    "title": "Поддержка веб-проектов",
+    "caseTitles": [
+      "От 1 месяца",
+      "От 100 000 ₽ в месяц"
+    ],
+    "image": "/images/web-support.webp",
+    "items": [
+      {
+        "title": "Техподдержка сайта на 1С-Битрикс",
+        "href": "https://else-digital.ru/services/podderzhka-web-proektov/tex-podderjka-sayta-na-1s-bitrix/",
+        "description": "Закажите поддержку и развитие сайта на Битрикс у опытной команды Элс — сертифицированного разработчика на 1С-Битрикс с большим опытом в интеграциях и отладке систем."
+      },
+      {
+        "title": "Доработка сайта",
+        "href": "https://else-digital.ru/services/podderzhka-web-proektov/dorabotki-sajta/",
+        "description": "Обновляем сайты на 1С-Битрикс, WordPress, Laravel, Django, Vue, React и других платформах. Улучшаем UX, внедряем функционал, интегрируем системы, обеспечиваем стабильность и рост."
+      },
+      {
+        "title": "Доработка мобильного приложения",
+        "href": "https://else-digital.ru/services/podderzhka-web-proektov/podderzhka-mobilnyh-prilozheniy/",
+        "description": "Подключаемся на любом этапе — от устранения ошибок до внедрения новых модулей и редизайна. Работаем с нативными, гибридными и кроссплатформенными приложениями."
+      },
+      {
+        "title": "Интеграции по АРІ",
+        "href": "https://else-digital.ru/services/podderzhka-web-proektov/api-integracii/",
+        "description": "Разрабатываем API-интеграции под задачи бизнеса — от типовых связок до сложных экосистем, где десятки сервисов работают как единое целое."
+      },
+      {
+        "title": "Интеграция веб-сайта с 1С",
+        "href": "https://else-digital.ru/services/podderzhka-web-proektov/integraciya-web-sajta-s-1s/",
+        "description": "Автоматизируем обмен данными между сайтом и 1С: настроим синхронизацию заказов, товаров, клиентов, оплат и доставки."
+      },
+      {
+        "title": "Оптимизация сайта",
+        "href": "https://else-digital.ru/services/podderzhka-web-proektov/optimizaciya-sajta/",
+        "description": "Проводим аудит сайта и исправляем выявленные ошибки. Ускоряем загрузку страниц, адаптируем под мобильные устройства и улучшаем UX."
+      }
+    ]
+  },
+  {
+    "title": "Аутстаффинг IT-специалистов",
+    "caseTitles": [
+      "От 1 месяца",
+      "От 1 400 ₽/час"
+    ],
+    "image": "/images/it-staff.webp",
+    "items": [
+      {
+        "title": "Аналитики",
+        "href": "https://else-digital.ru/it-staff-outsourcing/analitiki/",
+        "description": "Подходят, если требования «плавают» или проект постоянно переделывается."
+      },
+      {
+        "title": "Frontend-разработчики",
+        "href": "https://else-digital.ru/it-staff-outsourcing/frontend-razrabotchiki/",
+        "description": "Подходит, если нужно ускорить разработку интерфейсов или закрыть узкое место в команде."
+      },
+      {
+        "title": "QA-разработчики",
+        "href": "https://else-digital.ru/it-staff-outsourcing/qa-razrabotchiki/",
+        "description": "Подходит, если баги дорого обходятся бизнесу."
+      },
+      {
+        "title": "Backend-разработчики",
+        "href": "https://else-digital.ru/it-staff-outsourcing/backend-razrabotchiki/",
+        "description": "Идеально для сложной логики, API, микросервисов и роста нагрузки."
+      },
+      {
+        "title": "Мобильные разработчики",
+        "href": "https://else-digital.ru/it-staff-outsourcing/mobilnye-razrabotchiki/",
+        "description": "Подходит для MVP, масштабирования и доработки существующих приложений."
+      },
+      {
+        "title": "Выделенные команды",
+        "href": "https://else-digital.ru/it-staff-outsourcing/vydelennye-komandy/",
+        "description": "Выделенная команда разработчиков — это готовая связка специалистов, полностью сфокусированных на вашем проекте."
+      }
+    ]
+  },
+  {
+    "title": "Разработка для мессенджера MAX",
+    "caseTitles": [
+      "2–4 недели",
+      "От 50 000 ₽"
+    ],
+    "image": "/assets/images/services/max-chat-bot.webp",
+    "items": [
+      {
+        "title": "Чат-боты для MAX",
+        "href": "https://else-digital.ru/services/razrabotka-max-messanger/max-chat-bot/",
+        "description": "Мы разрабатываем чат-ботов в мессенджере MAX для бизнеса — от простых ботов для обработки заявок до сложных ИИ-ботов с интеграциями, автоматизацией и аналитикой. Чат-бот в MAX — это инструмент продаж, поддержки и маркетинга, который работает 24/7 и снижает нагрузку на сотрудников"
+      },
+      {
+        "title": "Mini Apps для MAX",
+        "href": "https://else-digital.ru/services/razrabotka-max-messanger/max-mini-app/",
+        "description": "Mini App в MAX — это альтернатива мобильному приложению без публикации в App Store и Google Play. Мы разрабатываем Mini App в мессенджере MAX — полноценные веб-приложения внутри платформы с личными кабинетами, каталогами, оплатой, аналитикой и интеграциями. Создаём Mini App под задачи бизнеса: e-commerce, банковские сервисы, образовательные платформы, программы лояльности, сервисы бронирования и внутренние корпоративные решения."
+      },
+      {
+        "title": "Перенос ботов из Telegram в MAX",
+        "href": "https://else-digital.ru/services/razrabotka-max-messanger/perenos-botov-iz-telegram-v-max/",
+        "description": "Мы адаптируем и переносим существующие чат-боты из Telegram в мессенджер MAX. Ваш бот будет работать с новой аудиторией без потери функционала: диалоги, автоворонки, интеграции с CRM и платежными системами сохраняются, а мы добавляем возможности платформы MAX — платежи через СБП, цифровой ID и встроенные Mini App-сервисы."
+      }
+    ]
+  },
+  {
+    "title": "Продвижение сайтов",
+    "caseTitles": [
+      "От 1 недели",
+      "От 50,000 рублей"
+    ],
+    "image": "/images/website-promotion.webp",
+    "items": [
+      {
+        "title": "SEO-продвижение",
+        "href": "https://else-digital.ru/services/prodvizhenie-sajtov/seo-prodvizhenie/",
+        "description": "Анализируем рынок и конкурентов, формируем стратегию SEO-продвижения сайта, оптимизируем структуру и контент под поисковые запросы, улучшаем техническое состояние сайта и последовательно наращиваем ссылочную массу."
+      },
+      {
+        "title": "Контекстная реклама",
+        "href": "https://else-digital.ru/services/prodvizhenie-sajtov/kontekstnaya-reklama/",
+        "description": "Настроим Яндекс. Директ и привлечем целевую аудиторию, снизив стоимость клика и перехода."
+      }
+    ]
+  }
+]

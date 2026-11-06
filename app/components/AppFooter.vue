@@ -1,0 +1,170 @@
+<script setup lang="ts">
+const year = new Date().getFullYear()
+</script>
+
+<template>
+  <footer class="footer overflow-hidden xl:px-20 xl:pb-6 xl:h-[556px] lg:px-[42px] lg:pb-4 lg:h-[488px] md:px-[38px] md:pb-4 md:h-auto md:flex md:flex-col md:gap-[120px] sm:px-6 sm:pb-4 sm:h-auto sm:gap-[100px] px-4 pb-5 gap-[100px] xs:gap-9">
+    <div class="first_row xl:grid xl:grid-cols-[3fr_2fr_1.5fr_1fr_1fr_1fr] lg:grid lg:grid-cols-[3fr_2fr_1.5fr_1fr_1fr_1fr] md:flex md:flex-col md:gap-10 sm:flex sm:flex-col sm:gap-9 flex flex-col gap-6">
+      <div class="footer-section flex flex-col gap-4">
+        <a href="/"><IconsLogoIcon class="footer-logo text-white w-[91px] h-[32px] md:w-[114px] md:h-[40px]" /></a>
+        <p class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">©{{ year }}, ООО «Элс Диджитал»</p>
+      </div>
+      <div class="xl:contents lg:contents md:grid md:grid-cols-3 md:gap-8 sm:grid sm:grid-cols-3 sm:grid-rows-2 sm:gap-6 flex flex-col gap-9 xs:grid xs:grid-cols-2 xs:gap-4">
+        <div class="footer-section hidden sm:flex flex-col gap-4">
+          <a class="footer-section-title xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]" href="https://else-digital.ru/services/">Услуги</a>
+          <ul class="flex flex-col gap-2">
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a href="https://else-digital.ru/services/razrabotka-web-servisov/"><span class="link-wrapper cursor-pointer"><span class="link-current">Разработка веб-сервисов</span><span class="link-hover" aria-hidden="true">Разработка веб-сервисов</span></span></a>
+            </li>
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a href="https://else-digital.ru/services/razrabotka-sajtov/"><span class="link-wrapper cursor-pointer"><span class="link-current">Разработка сайтов</span><span class="link-hover" aria-hidden="true">Разработка сайтов</span></span></a>
+            </li>
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a href="https://else-digital.ru/services/mobilnaya-razrabotka/"><span class="link-wrapper cursor-pointer"><span class="link-current">Мобильная разработка</span><span class="link-hover" aria-hidden="true">Мобильная разработка</span></span></a>
+            </li>
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a href="https://else-digital.ru/services/mobilnaya-razrabotka/android-razrabotka/"><span class="link-wrapper cursor-pointer"><span class="link-current">Разработка Android-приложений</span><span class="link-hover" aria-hidden="true">Разработка Android-приложений</span></span></a>
+            </li>
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a href="https://else-digital.ru/services/mobilnaya-razrabotka/ios-razrabotka/"><span class="link-wrapper cursor-pointer"><span class="link-current">Разработка iOS-приложений</span><span class="link-hover" aria-hidden="true">Разработка iOS-приложений</span></span></a>
+            </li>
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a href="https://else-digital.ru/services/razrabotka-max-messanger/max-chat-bot/"><span class="link-wrapper cursor-pointer"><span class="link-current">Чат-боты для мессенджера Макс</span><span class="link-hover" aria-hidden="true">Чат-боты для мессенджера Макс</span></span></a>
+            </li>
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a href="https://else-digital.ru/services/podderzhka-web-proektov/"><span class="link-wrapper cursor-pointer"><span class="link-current">Поддержка веб-проектов</span><span class="link-hover" aria-hidden="true">Поддержка веб-проектов</span></span></a>
+            </li>
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a href="https://else-digital.ru/it-staff-outsourcing/"><span class="link-wrapper cursor-pointer"><span class="link-current">Аутстаффинг</span><span class="link-hover" aria-hidden="true">Аутстаффинг</span></span></a>
+            </li>
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a href="https://else-digital.ru/services/prodvizhenie-sajtov/"><span class="link-wrapper cursor-pointer"><span class="link-current">Продвижение сайтов</span><span class="link-hover" aria-hidden="true">Продвижение сайтов</span></span></a>
+            </li>
+          </ul>
+        </div>
+        <div class="footer-section hidden sm:flex flex-col gap-4">
+          <a class="footer-section-title xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]" href="https://else-digital.ru/technologies/">Технологии</a>
+          <ul class="flex flex-col gap-2">
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a href="https://else-digital.ru/technologies/backend-razrabotchiki/"><span class="link-wrapper cursor-pointer"><span class="link-current">Backend технологии</span><span class="link-hover" aria-hidden="true">Backend технологии</span></span></a>
+            </li>
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a href="https://else-digital.ru/technologies/frontend-razrabotchiki/"><span class="link-wrapper cursor-pointer"><span class="link-current">Frontend технологии</span><span class="link-hover" aria-hidden="true">Frontend технологии</span></span></a>
+            </li>
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a href="https://else-digital.ru/technologies/mobilnye-razrabotchiki/"><span class="link-wrapper cursor-pointer"><span class="link-current">Мобильные технологии</span><span class="link-hover" aria-hidden="true">Мобильные технологии</span></span></a>
+            </li>
+          </ul>
+        </div>
+        <div class="footer-section hidden sm:flex flex-col gap-4">
+          <p class="footer-section-title xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">Компания</p>
+          <ul class="flex flex-col gap-2">
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a href="https://else-digital.ru/cases/"><span class="link-wrapper cursor-pointer"><span class="link-current">Кейсы</span><span class="link-hover" aria-hidden="true">Кейсы</span></span></a>
+            </li>
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a href="https://else-digital.ru/about/"><span class="link-wrapper cursor-pointer"><span class="link-current">О компании</span><span class="link-hover" aria-hidden="true">О компании</span></span></a>
+            </li>
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a href="https://else-digital.ru/vacancies/"><span class="link-wrapper cursor-pointer"><span class="link-current">Вакансии</span><span class="link-hover" aria-hidden="true">Вакансии</span></span></a>
+            </li>
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a href="https://else-digital.ru/blog/"><span class="link-wrapper cursor-pointer"><span class="link-current">Блог</span><span class="link-hover" aria-hidden="true">Блог</span></span></a>
+            </li>
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a href="https://else-digital.ru/contacts/"><span class="link-wrapper cursor-pointer"><span class="link-current">Контакты</span><span class="link-hover" aria-hidden="true">Контакты</span></span></a>
+            </li>
+          </ul>
+        </div>
+        <div class="footer-section hidden sm:flex flex-col gap-4">
+          <p class="footer-section-title xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">Соцсети</p>
+          <ul class="flex flex-col gap-2">
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a target="_blank" href="https://t.me/else_digital"><span class="link-wrapper cursor-pointer"><span class="link-current">Telegram канал</span><span class="link-hover" aria-hidden="true">Telegram канал</span></span></a>
+            </li>
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a target="_blank" href="https://www.behance.net/else-digital"><span class="link-wrapper cursor-pointer"><span class="link-current">Behance</span><span class="link-hover" aria-hidden="true">Behance</span></span></a>
+            </li>
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a target="_blank" href="https://dprofile.ru/else"><span class="link-wrapper cursor-pointer"><span class="link-current">DProfile</span><span class="link-hover" aria-hidden="true">DProfile</span></span></a>
+            </li>
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a target="_blank" href="https://vc.ru/else_digital "><span class="link-wrapper cursor-pointer"><span class="link-current">vc.ru</span><span class="link-hover" aria-hidden="true">vc.ru</span></span></a>
+            </li>
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a target="_blank" href="https://vk.ru/else_digital"><span class="link-wrapper cursor-pointer"><span class="link-current">VK</span><span class="link-hover" aria-hidden="true">VK</span></span></a>
+            </li>
+          </ul>
+        </div>
+        <div class="footer-section flex flex-col gap-4">
+          <p class="footer-section-title xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">Для связи</p>
+          <ul class="flex flex-col gap-2">
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a href="tel:+74951183710"><span class="link-wrapper cursor-pointer"><span class="link-current">+7 (495) 118-37-10</span><span class="link-hover" aria-hidden="true">+7 (495) 118-37-10</span></span></a>
+            </li>
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a href="mailto:info@else-digital.ru"><span class="link-wrapper cursor-pointer"><span class="link-current">info@else-digital.ru</span><span class="link-hover" aria-hidden="true">info@else-digital.ru</span></span></a>
+            </li>
+            <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
+              <a target="_blank" href="https://t.me/DmitryMukhin"><span class="link-wrapper cursor-pointer"><span class="link-current">Telegram</span><span class="link-hover" aria-hidden="true">Telegram</span></span></a>
+            </li>
+          </ul>
+          <p class="footer-section-title xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">Офис</p>
+          <div class="flex flex-col gap-[8px]">
+            <a class="whitespace-nowrap xl:text-[20px] text-white font-main lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]" target="_blank" href="https://yandex.ru/maps/39/rostov-na-donu/house/trolleybusnaya_ulitsa_24_2v/Z0AYcQFhTEwOQFptfX53dntqbQ==/?ll=39.766106%2C47.267799&amp;z=16">г. Ростов-на-Дону <br>
+              ул. Троллейбусная 24/2в</a>
+          </div>
+        </div>
+      </div>
+      <div class="flex sm:hidden">
+        <div class="footer-black-links flex items-center gap-2">
+          <a target="_blank" href="https://t.me/else_digital"><span class="inline-flex"><svg width="54" height="54" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g clip-path="url(#clip0_3755_25918)">
+                  <rect width="54" height="54" rx="27" fill="white" fill-opacity="0.1"></rect>
+                  <path fill-rule="evenodd" clip-rule="evenodd" d="M16.5124 26.7489C22.418 24.2087 26.3559 22.534 28.3263 21.7249C33.9521 19.4147 35.1211 19.0134 35.883 19.0001C36.0506 18.9972 36.4253 19.0382 36.668 19.2327C36.873 19.3969 36.9294 19.6186 36.9563 19.7743C36.9833 19.9299 37.0169 20.2845 36.9902 20.5616C36.6854 23.7241 35.3662 31.3986 34.6951 34.9406C34.4111 36.4394 33.852 36.9419 33.3107 36.9911C32.1343 37.098 31.2409 36.2235 30.1015 35.4861C28.3186 34.3323 27.3113 33.614 25.5807 32.488C23.5806 31.1868 24.8772 30.4716 26.017 29.3027C26.3153 28.9969 31.4986 24.3423 31.5989 23.92C31.6115 23.8672 31.6231 23.6704 31.5046 23.5664C31.3862 23.4625 31.2114 23.498 31.0852 23.5263C30.9064 23.5664 28.0581 25.425 22.5404 29.1022C21.7319 29.6503 20.9996 29.9174 20.3435 29.9034C19.6202 29.888 18.2288 29.4996 17.1945 29.1677C15.9258 28.7606 14.9175 28.5453 15.0053 27.8539C15.0511 27.4937 15.5534 27.1254 16.5124 26.7489Z" fill="white"></path>
+                </g>
+                <defs>
+                  <clipPath id="clip0_3755_25918"><rect width="54" height="54" rx="27" fill="white"></rect></clipPath>
+                </defs></svg></span></a><a target="_blank" href="https://vc.ru/else_digital "><span class="inline-flex"><svg width="54" height="54" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g clip-path="url(#clip0_3755_25921)">
+                  <rect width="54" height="54" rx="27" fill="white" fill-opacity="0.1"></rect>
+                  <path d="M34.6028 26.0841C36.4661 26.0841 37.8688 25.3078 38.9031 23.9564L37.5208 22.9017C37.1793 23.3517 36.738 23.7163 36.2316 23.9667C35.7253 24.217 35.1677 24.3464 34.6028 24.3445C32.5806 24.3445 31.1153 22.6971 31.1153 20.6756C31.1153 18.6541 32.5567 16.9139 34.6605 16.9139C35.5956 16.9139 36.2566 17.1347 36.8331 17.4919V19.2694H38.5726V16.6777L38.2394 16.4154C37.2831 15.663 35.8227 15.2637 34.6021 15.2637C31.618 15.2637 29.1908 17.6909 29.1908 20.6749C29.1908 23.6562 31.6173 26.0841 34.6028 26.0841ZM38.2119 36.7575L38.1501 34.2663V28.1871H34.5219V29.9273H36.3177V34.0519C36.3177 35.8287 34.9607 37.0865 33.5917 37.0865C32.2227 37.0865 31.5084 36.1373 31.5084 34.3613V28.1864H28.1193V29.9266H29.676V34.6629C29.676 37.0732 31.0274 38.734 33.4377 38.734C34.8229 38.734 35.8776 37.9655 36.5069 36.7807H36.535L36.7832 38.4373H39.5711V36.7596H38.2141V36.7561L38.2119 36.7575ZM28.7901 15.5189H25.7666L23.1369 23.1548H23.0962L20.4805 15.5189H17.2588V17.2598H19.0708L22.1891 25.9631H23.8457V25.961L27.0976 17.2605H28.7887V15.5196L28.7901 15.5189ZM14.4294 38.4598H16.221V36.6689H14.4301V38.4598H14.4294ZM21.3482 30.2051H21.3285L21.216 28.1871H18.0182V29.7734H19.7198V36.7582H18.0182V38.4366H25.9213V36.7913H21.5212V32.576C21.7201 31.0502 22.8641 29.7473 24.4251 29.7473H24.4532L24.4216 31.3069H26.1611V28.1583H24.7858C23.2108 28.1541 22.0422 29.0063 21.3475 30.2058L21.3482 30.2051Z" fill="white"></path>
+                </g>
+                <defs>
+                  <clipPath id="clip0_3755_25921"><rect width="54" height="54" rx="27" fill="white"></rect></clipPath>
+                </defs></svg></span></a><a target="_blank" href="https://www.behance.net/else-digital"><span class="inline-flex"><svg width="54" height="54" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g clip-path="url(#clip0_3755_25924)">
+                  <rect width="54" height="54" rx="27" fill="white" fill-opacity="0.1"></rect>
+                  <path d="M22.5302 20.25C23.1876 20.25 23.7868 20.3067 24.3281 20.4202C24.8695 20.5337 25.3334 20.7198 25.72 20.9779C26.1066 21.2363 26.4063 21.5799 26.619 22.0085C26.8316 22.4372 26.938 22.9665 26.938 23.5967C26.938 24.2775 26.7801 24.8447 26.4644 25.2984C26.1484 25.7522 25.6814 26.124 25.0628 26.4139C25.9134 26.6535 26.5481 27.0728 26.9671 27.6713C27.3856 28.2702 27.5955 28.9919 27.5955 29.8363C27.5955 30.5169 27.4602 31.1063 27.1894 31.6043C26.9189 32.1024 26.5546 32.5089 26.0973 32.8236C25.6397 33.1389 25.1177 33.3719 24.5314 33.5234C23.9414 33.675 23.3338 33.7512 22.7238 33.7501H16.0347V20.25H22.5302ZM22.1436 25.7145C22.685 25.7145 23.1295 25.5885 23.4776 25.3363C23.8256 25.0843 23.9995 24.6745 23.9995 24.1073C23.9995 23.7923 23.9415 23.5337 23.8256 23.3321C23.7096 23.1305 23.5549 22.9726 23.3616 22.8594C23.1682 22.7459 22.9459 22.6674 22.6946 22.623C22.4361 22.5783 22.1741 22.5562 21.9117 22.5569H19.0698V25.7146L22.1436 25.7145ZM22.3176 31.4434C22.6139 31.4434 22.8975 31.4149 23.1681 31.3582C23.4387 31.3015 23.6771 31.2069 23.8835 31.0745C24.0895 30.9424 24.2539 30.7626 24.3764 30.5356C24.4988 30.3088 24.56 30.0189 24.56 29.6658C24.56 28.9728 24.3601 28.478 23.9608 28.1817C23.5611 27.8855 23.0327 27.7373 22.3755 27.7373H19.0698V31.4431L22.3176 31.4434ZM31.4151 31.1598C31.8275 31.5509 32.4204 31.7459 33.1937 31.7459C33.7476 31.7459 34.2246 31.6107 34.6241 31.3395C35.0236 31.0688 35.2686 30.7818 35.3588 30.4791H37.7752C37.3887 31.6513 36.7956 32.4898 35.9968 32.9938C35.1974 33.4981 34.2308 33.7501 33.0968 33.7501C32.3106 33.7501 31.6016 33.6272 30.9702 33.3813C30.3386 33.1357 29.8036 32.7858 29.3658 32.332C28.9275 31.8783 28.5892 31.3367 28.3507 30.7061C28.1122 30.076 27.9932 29.3826 27.9932 28.6263C27.9932 27.8954 28.1153 27.2147 28.3605 26.5844C28.6051 25.9543 28.9529 25.4091 29.4045 24.9487C29.8553 24.4888 30.3936 24.1264 31.0187 23.8616C31.6437 23.5969 32.3364 23.4646 33.0969 23.4646C33.9476 23.4646 34.6885 23.6253 35.3202 23.9467C35.9515 24.2681 36.4704 24.7003 36.8765 25.2418C37.2824 25.7839 37.5754 26.4017 37.7563 27.0947C37.9367 27.7881 38.0009 28.5128 37.9496 29.2691H30.7387C30.7772 30.1387 31.0024 30.7692 31.4151 31.1598ZM34.5179 26.0169C34.1893 25.6642 33.6897 25.4875 33.0197 25.4875C32.5815 25.4875 32.2175 25.5602 31.9275 25.705C31.6375 25.8502 31.4054 26.0294 31.2314 26.2438C31.0576 26.4583 30.9349 26.6853 30.8642 26.9245C30.7932 27.164 30.7513 27.3784 30.7385 27.5674H35.2041C35.0753 26.8866 34.8466 26.3699 34.5179 26.0169ZM30.2697 20.9355H35.8493V22.4486H30.2697V20.9355Z" fill="white"></path>
+                </g>
+                <defs>
+                  <clipPath id="clip0_3755_25924"><rect width="54" height="54" rx="27" fill="white"></rect></clipPath>
+                </defs></svg></span></a><a target="_blank" href="https://dprofile.ru/else"><span class="inline-flex"><svg width="54" height="54" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g clip-path="url(#clip0_3755_25927)">
+                  <rect width="54" height="54" rx="27" fill="white" fill-opacity="0.1"></rect>
+                  <path fill-rule="evenodd" clip-rule="evenodd" d="M32.6209 15.8289L38.1721 21.3794C41.2764 24.4838 41.2764 29.5166 38.1721 32.6209L32.6209 38.1721C29.5166 41.2764 24.4838 41.2764 21.3794 38.1721L15.8282 32.6209C12.7239 29.5166 12.7239 24.4838 15.8282 21.3794L21.3794 15.8282C24.4838 12.7239 29.5166 12.7239 32.6209 15.8282V15.8289ZM17.2127 30.2348V23.7642C17.2127 20.1462 20.1462 17.2127 23.7649 17.2127H30.2354C33.8541 17.2127 36.7877 20.1462 36.7877 23.7649V30.2354C36.7877 33.8541 33.8541 36.7877 30.2354 36.7877H23.7649C20.1462 36.7877 17.2127 33.8534 17.2127 30.2348Z" fill="white"></path>
+                  <path d="M38.1293 14.1759C38.4223 14.1765 38.7105 14.2515 38.9663 14.3932C39.2343 14.535 39.455 14.7516 39.6008 15.0162C39.7476 15.2732 39.8248 15.564 39.8248 15.86C39.8248 16.1559 39.7476 16.4468 39.6008 16.7037C39.4543 16.967 39.2363 17.1843 38.9704 17.3301C38.7123 17.475 38.4212 17.551 38.1253 17.5509C37.8366 17.5452 37.5539 17.468 37.3024 17.3261C37.0387 17.1806 36.8216 16.9634 36.676 16.6997C36.5275 16.4433 36.4492 16.1523 36.4492 15.8559C36.4492 15.5596 36.5275 15.2686 36.676 15.0122C36.8198 14.7462 37.0372 14.5262 37.3024 14.3784C37.5567 14.2425 37.8411 14.1729 38.1293 14.1759ZM38.1293 14.4526C37.8852 14.4546 37.6455 14.5177 37.432 14.6362C37.2093 14.7557 37.0257 14.9359 36.9022 15.156C36.7794 15.3702 36.7149 15.6128 36.7149 15.8597C36.7149 16.1065 36.7794 16.3491 36.9022 16.5633C37.0237 16.7827 37.2066 16.9629 37.4287 17.0831C37.6429 17.2064 37.8858 17.2713 38.133 17.2713C38.3802 17.2713 38.6231 17.2064 38.8374 17.0831C39.0588 16.9629 39.2417 16.7827 39.3639 16.5633C39.4866 16.3491 39.5512 16.1065 39.5512 15.8597C39.5512 15.6128 39.4866 15.3702 39.3639 15.156C39.2411 14.935 39.0568 14.7544 38.8333 14.6362C38.6179 14.5166 38.3757 14.4534 38.1293 14.4526ZM37.4543 16.7294V14.913H38.0807C38.238 14.9055 38.3959 14.9217 38.5478 14.9602C38.6423 14.9919 38.7233 15.0547 38.7773 15.1377C38.8223 15.2033 38.8503 15.279 38.8589 15.358C38.8675 15.437 38.8564 15.517 38.8266 15.5907C38.8017 15.6503 38.765 15.7043 38.7186 15.7493C38.6207 15.8501 38.4877 15.9093 38.3473 15.9147C38.4046 15.937 38.4575 15.9695 38.5033 16.0105C38.6065 16.1239 38.6977 16.2468 38.7739 16.3791L38.9967 16.7476H38.6254L38.4634 16.4601C38.3867 16.3017 38.2822 16.1584 38.155 16.0368C38.0846 15.9913 38.0017 15.9693 37.918 15.9741H37.7439V16.7476L37.4543 16.7294ZM37.7473 15.7047H38.1185C38.2397 15.7174 38.3617 15.6904 38.4661 15.6278C38.497 15.6048 38.5219 15.5747 38.5387 15.54C38.5555 15.5054 38.5637 15.4672 38.5627 15.4287C38.5646 15.3765 38.5475 15.3255 38.5147 15.2849C38.4846 15.2414 38.442 15.208 38.3926 15.189C38.2961 15.1614 38.1957 15.1503 38.0956 15.156H37.7581L37.7473 15.7047Z" fill="white"></path>
+                </g>
+                <defs>
+                  <clipPath id="clip0_3755_25927"><rect width="54" height="54" rx="27" fill="white"></rect></clipPath>
+                </defs></svg></span></a><a target="_blank" href="https://vk.ru/else_digital"><span class="inline-flex"><svg width="54" height="54" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g clip-path="url(#clip0_3755_25931)">
+                  <rect width="54" height="54" rx="27" fill="white" fill-opacity="0.1"></rect>
+                  <path d="M27.9681 33.8198C20.569 33.8198 16.3487 28.7473 16.1729 20.3066H19.8792C20.0009 26.5019 22.7332 29.126 24.8975 29.6671V20.3066H28.3875V25.6497C30.5247 25.4197 32.7699 22.9849 33.5274 20.3066H37.0174C36.4357 23.6072 34.0009 26.042 32.2695 27.0429C34.0009 27.8545 36.774 29.9782 37.8291 33.8198H33.9874C33.1623 31.2497 31.1064 29.2613 28.3875 28.9907V33.8198H27.9681Z" fill="white"></path>
+                </g>
+                <defs>
+                  <clipPath id="clip0_3755_25931"><rect width="54" height="54" rx="27" fill="white"></rect></clipPath>
+                </defs></svg></span></a>
+        </div>
+      </div>
+    </div>
+    <div class="second_row pt-6">
+      <div class="footer-bottom gap-2 flex-col-reverse xs:flex xs:flex-col-reverse sm:flex sm:flex-row sm:justify-between md:justify-between md:flex md:flex-row lg:flex lg:flex-row xl:flex xl:flex-row xs:items-start xl:justify-between lg:justify-between xs:justify-start">
+        <span class="footer-bottom-title text-[20px] xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">Аккредитованная IT-компания</span>
+        <div class="flex items-center gap-[40px]">
+          <a href="https://else-digital.ru/assets/data/Презентация_ELSE_Полная.pdf" target="_blank" rel="noopener noreferrer" class="footer-bottom-text xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]"><span class="link-wrapper cursor-pointer"><span class="link-current">Презентация</span><span class="link-hover" aria-hidden="true">Презентация</span></span></a><a class="footer-bottom-text text-[20px] xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]" href="https://else-digital.ru/requisites/"><span class="link-wrapper cursor-pointer"><span class="link-current">Реквизиты</span><span class="link-hover" aria-hidden="true">Реквизиты</span></span></a>
+        </div>
+      </div>
+    </div>
+  </footer>
+</template>

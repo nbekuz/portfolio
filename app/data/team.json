@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Дмитрий",
+    "position": "Founder",
+    "image": "/assets/images/team/dmitry-mukhin/cover.webp",
+    "href": "https://else-digital.ru/dmitry-mukhin/"
+  },
+  {
+    "name": "Николай",
+    "position": "Co-founder",
+    "image": "/assets/images/team/nikolay-zhernovoy/cover.webp"
+  },
+  {
+    "name": "Сергей",
+    "position": "Team lead",
+    "image": "/assets/images/team/sergey-smetanin/cover.webp"
+  },
+  {
+    "name": "Никита",
+    "position": "Project-менеджер",
+    "image": "/assets/images/team/nikita-tolmachev/cover.webp"
+  },
+  {
+    "name": "Егор",
+    "position": "iOS разработчик",
+    "image": "/assets/images/team/egor/cover.webp"
+  },
+  {
+    "name": "Давид",
+    "position": "Руководитель коммерческого направления",
+    "image": "/assets/images/team/david/cover.webp"
+  },
+  {
+    "name": "Ольга",
+    "position": "Системный аналитик",
+    "image": "/assets/images/team/olya/olya.webp"
+  },
+  {
+    "name": "Мария",
+    "position": "React разработчик",
+    "image": "/assets/images/team/maria-yarkina/cover.webp"
+  },
+  {
+    "name": "Михаил",
+    "position": "Python разработчик",
+    "image": "/assets/images/team/mikhail/cover.webp"
+  },
+  {
+    "name": "Константин",
+    "position": "Python разработчик",
+    "image": "/assets/images/team/kostya/cover.webp"
+  },
+  {
+    "name": "Антон",
+    "position": "iOS разработчик",
+    "image": "/assets/images/team/anton/cover.webp"
+  },
+  {
+    "name": "Сергей",
+    "position": "QA",
+    "image": "/assets/images/team/sreja/cover.webp"
+  },
+  {
+    "name": "Арина",
+    "position": "Sales менеджер",
+    "image": "/assets/images/team/arina/cover.webp"
+  },
+  {
+    "name": "Руслан",
+    "position": "SEO-специалист",
+    "image": "/assets/images/team/ruslan/cover.webp"
+  },
+  {
+    "name": "Максим",
+    "position": "UI/UX Дизайнер",
+    "image": "/assets/images/team/maxim/cover.webp"
+  },
+  {
+    "name": "Даниил",
+    "position": "Мобильный разработчик",
+    "image": "/assets/images/team/danil/cover.webp"
+  },
+  {
+    "name": "Станислав",
+    "position": "Frontend разработчик",
+    "image": "/assets/images/team/stas/cover.webp"
+  },
+  {
+    "name": "Александр",
+    "position": "Мобильный разработчик",
+    "image": "/assets/images/team/sasha/cover.webp"
+  },
+  {
+    "name": "Роман",
+    "position": "UI/UX Дизайнер",
+    "image": "/assets/images/team/roma/cover.webp"
+  }
+]

@@ -1,0 +1,23 @@
+.fill-img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  color: transparent;
+}
+
+[data-no-preloader] .preloader-root {
+  display: none;
+}
+
+.services_accordion_body.svc-body-open {
+  height: auto;
+  opacity: 1;
+}
+
+@media (max-width: 767px) {
+  .svc-ssr .services_accordion_body.svc-body-open {
+    height: 0;
+    opacity: 0;
+  }
+}
