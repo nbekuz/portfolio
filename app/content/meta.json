@@ -1,0 +1,50 @@
+{
+ "/": {
+  "header": "light",
+  "hero": "Обсудить проект"
+ },
+ "/about/": {
+  "header": "light",
+  "hero": "Обсудить проект"
+ },
+ "__404": {
+  "header": "dark",
+  "hero": ""
+ },
+ "/dmitry-mukhin/": {
+  "header": "black",
+  "hero": ""
+ },
+ "/it-staff-outsourcing/": {
+  "header": "dark",
+  "hero": "Подобрать специалистов"
+ },
+ "/it-staff-outsourcing/analitiki/": {
+  "header": "dark",
+  "hero": "Подобрать специалистов"
+ },
+ "/it-staff-outsourcing/backend-razrabotchiki/": {
+  "header": "dark",
+  "hero": "Подобрать специалистов"
+ },
+ "/it-staff-outsourcing/frontend-razrabotchiki/": {
+  "header": "dark",
+  "hero": "Подобрать специалистов"
+ },
+ "/it-staff-outsourcing/mobilnye-razrabotchiki/": {
+  "header": "dark",
+  "hero": "Подобрать специалистов"
+ },
+ "/it-staff-outsourcing/qa-razrabotchiki/": {
+  "header": "dark",
+  "hero": "Подобрать специалистов"
+ },
+ "/it-staff-outsourcing/vydelennye-komandy/": {
+  "header": "dark",
+  "hero": "Подобрать специалистов"
+ },
+ "/vacancies/": {
+  "header": "dark",
+  "hero": "Откликнуться"
+ }
+}

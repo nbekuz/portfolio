@@ -11,48 +11,48 @@ const year = new Date().getFullYear()
       </div>
       <div class="xl:contents lg:contents md:grid md:grid-cols-3 md:gap-8 sm:grid sm:grid-cols-3 sm:grid-rows-2 sm:gap-6 flex flex-col gap-9 xs:grid xs:grid-cols-2 xs:gap-4">
         <div class="footer-section hidden sm:flex flex-col gap-4">
-          <a class="footer-section-title xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]" href="https://else-digital.ru/services/">Услуги</a>
+          <a class="footer-section-title xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]" href="/services/">Услуги</a>
           <ul class="flex flex-col gap-2">
             <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
-              <a href="https://else-digital.ru/services/razrabotka-web-servisov/"><span class="link-wrapper cursor-pointer"><span class="link-current">Разработка веб-сервисов</span><span class="link-hover" aria-hidden="true">Разработка веб-сервисов</span></span></a>
+              <a href="/services/razrabotka-web-servisov/"><span class="link-wrapper cursor-pointer"><span class="link-current">Разработка веб-сервисов</span><span class="link-hover" aria-hidden="true">Разработка веб-сервисов</span></span></a>
             </li>
             <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
-              <a href="https://else-digital.ru/services/razrabotka-sajtov/"><span class="link-wrapper cursor-pointer"><span class="link-current">Разработка сайтов</span><span class="link-hover" aria-hidden="true">Разработка сайтов</span></span></a>
+              <a href="/services/razrabotka-sajtov/"><span class="link-wrapper cursor-pointer"><span class="link-current">Разработка сайтов</span><span class="link-hover" aria-hidden="true">Разработка сайтов</span></span></a>
             </li>
             <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
-              <a href="https://else-digital.ru/services/mobilnaya-razrabotka/"><span class="link-wrapper cursor-pointer"><span class="link-current">Мобильная разработка</span><span class="link-hover" aria-hidden="true">Мобильная разработка</span></span></a>
+              <a href="/services/mobilnaya-razrabotka/"><span class="link-wrapper cursor-pointer"><span class="link-current">Мобильная разработка</span><span class="link-hover" aria-hidden="true">Мобильная разработка</span></span></a>
             </li>
             <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
-              <a href="https://else-digital.ru/services/mobilnaya-razrabotka/android-razrabotka/"><span class="link-wrapper cursor-pointer"><span class="link-current">Разработка Android-приложений</span><span class="link-hover" aria-hidden="true">Разработка Android-приложений</span></span></a>
+              <a href="/services/mobilnaya-razrabotka/android-razrabotka/"><span class="link-wrapper cursor-pointer"><span class="link-current">Разработка Android-приложений</span><span class="link-hover" aria-hidden="true">Разработка Android-приложений</span></span></a>
             </li>
             <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
-              <a href="https://else-digital.ru/services/mobilnaya-razrabotka/ios-razrabotka/"><span class="link-wrapper cursor-pointer"><span class="link-current">Разработка iOS-приложений</span><span class="link-hover" aria-hidden="true">Разработка iOS-приложений</span></span></a>
+              <a href="/services/mobilnaya-razrabotka/ios-razrabotka/"><span class="link-wrapper cursor-pointer"><span class="link-current">Разработка iOS-приложений</span><span class="link-hover" aria-hidden="true">Разработка iOS-приложений</span></span></a>
             </li>
             <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
-              <a href="https://else-digital.ru/services/razrabotka-max-messanger/max-chat-bot/"><span class="link-wrapper cursor-pointer"><span class="link-current">Чат-боты для мессенджера Макс</span><span class="link-hover" aria-hidden="true">Чат-боты для мессенджера Макс</span></span></a>
+              <a href="/services/razrabotka-max-messanger/max-chat-bot/"><span class="link-wrapper cursor-pointer"><span class="link-current">Чат-боты для мессенджера Макс</span><span class="link-hover" aria-hidden="true">Чат-боты для мессенджера Макс</span></span></a>
             </li>
             <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
-              <a href="https://else-digital.ru/services/podderzhka-web-proektov/"><span class="link-wrapper cursor-pointer"><span class="link-current">Поддержка веб-проектов</span><span class="link-hover" aria-hidden="true">Поддержка веб-проектов</span></span></a>
+              <a href="/services/podderzhka-web-proektov/"><span class="link-wrapper cursor-pointer"><span class="link-current">Поддержка веб-проектов</span><span class="link-hover" aria-hidden="true">Поддержка веб-проектов</span></span></a>
             </li>
             <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
-              <a href="https://else-digital.ru/it-staff-outsourcing/"><span class="link-wrapper cursor-pointer"><span class="link-current">Аутстаффинг</span><span class="link-hover" aria-hidden="true">Аутстаффинг</span></span></a>
+              <a href="/it-staff-outsourcing/"><span class="link-wrapper cursor-pointer"><span class="link-current">Аутстаффинг</span><span class="link-hover" aria-hidden="true">Аутстаффинг</span></span></a>
             </li>
             <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
-              <a href="https://else-digital.ru/services/prodvizhenie-sajtov/"><span class="link-wrapper cursor-pointer"><span class="link-current">Продвижение сайтов</span><span class="link-hover" aria-hidden="true">Продвижение сайтов</span></span></a>
+              <a href="/services/prodvizhenie-sajtov/"><span class="link-wrapper cursor-pointer"><span class="link-current">Продвижение сайтов</span><span class="link-hover" aria-hidden="true">Продвижение сайтов</span></span></a>
             </li>
           </ul>
         </div>
         <div class="footer-section hidden sm:flex flex-col gap-4">
-          <a class="footer-section-title xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]" href="https://else-digital.ru/technologies/">Технологии</a>
+          <a class="footer-section-title xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]" href="/technologies/">Технологии</a>
           <ul class="flex flex-col gap-2">
             <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
-              <a href="https://else-digital.ru/technologies/backend-razrabotchiki/"><span class="link-wrapper cursor-pointer"><span class="link-current">Backend технологии</span><span class="link-hover" aria-hidden="true">Backend технологии</span></span></a>
+              <a href="/technologies/backend-razrabotchiki/"><span class="link-wrapper cursor-pointer"><span class="link-current">Backend технологии</span><span class="link-hover" aria-hidden="true">Backend технологии</span></span></a>
             </li>
             <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
-              <a href="https://else-digital.ru/technologies/frontend-razrabotchiki/"><span class="link-wrapper cursor-pointer"><span class="link-current">Frontend технологии</span><span class="link-hover" aria-hidden="true">Frontend технологии</span></span></a>
+              <a href="/technologies/frontend-razrabotchiki/"><span class="link-wrapper cursor-pointer"><span class="link-current">Frontend технологии</span><span class="link-hover" aria-hidden="true">Frontend технологии</span></span></a>
             </li>
             <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
-              <a href="https://else-digital.ru/technologies/mobilnye-razrabotchiki/"><span class="link-wrapper cursor-pointer"><span class="link-current">Мобильные технологии</span><span class="link-hover" aria-hidden="true">Мобильные технологии</span></span></a>
+              <a href="/technologies/mobilnye-razrabotchiki/"><span class="link-wrapper cursor-pointer"><span class="link-current">Мобильные технологии</span><span class="link-hover" aria-hidden="true">Мобильные технологии</span></span></a>
             </li>
           </ul>
         </div>
@@ -60,19 +60,19 @@ const year = new Date().getFullYear()
           <p class="footer-section-title xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">Компания</p>
           <ul class="flex flex-col gap-2">
             <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
-              <a href="https://else-digital.ru/cases/"><span class="link-wrapper cursor-pointer"><span class="link-current">Кейсы</span><span class="link-hover" aria-hidden="true">Кейсы</span></span></a>
+              <a href="/cases/"><span class="link-wrapper cursor-pointer"><span class="link-current">Кейсы</span><span class="link-hover" aria-hidden="true">Кейсы</span></span></a>
             </li>
             <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
-              <a href="https://else-digital.ru/about/"><span class="link-wrapper cursor-pointer"><span class="link-current">О компании</span><span class="link-hover" aria-hidden="true">О компании</span></span></a>
+              <a href="/about/"><span class="link-wrapper cursor-pointer"><span class="link-current">О компании</span><span class="link-hover" aria-hidden="true">О компании</span></span></a>
             </li>
             <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
-              <a href="https://else-digital.ru/vacancies/"><span class="link-wrapper cursor-pointer"><span class="link-current">Вакансии</span><span class="link-hover" aria-hidden="true">Вакансии</span></span></a>
+              <a href="/vacancies/"><span class="link-wrapper cursor-pointer"><span class="link-current">Вакансии</span><span class="link-hover" aria-hidden="true">Вакансии</span></span></a>
             </li>
             <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
-              <a href="https://else-digital.ru/blog/"><span class="link-wrapper cursor-pointer"><span class="link-current">Блог</span><span class="link-hover" aria-hidden="true">Блог</span></span></a>
+              <a href="/blog/"><span class="link-wrapper cursor-pointer"><span class="link-current">Блог</span><span class="link-hover" aria-hidden="true">Блог</span></span></a>
             </li>
             <li class="xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">
-              <a href="https://else-digital.ru/contacts/"><span class="link-wrapper cursor-pointer"><span class="link-current">Контакты</span><span class="link-hover" aria-hidden="true">Контакты</span></span></a>
+              <a href="/contacts/"><span class="link-wrapper cursor-pointer"><span class="link-current">Контакты</span><span class="link-hover" aria-hidden="true">Контакты</span></span></a>
             </li>
           </ul>
         </div>
@@ -162,7 +162,7 @@ const year = new Date().getFullYear()
       <div class="footer-bottom gap-2 flex-col-reverse xs:flex xs:flex-col-reverse sm:flex sm:flex-row sm:justify-between md:justify-between md:flex md:flex-row lg:flex lg:flex-row xl:flex xl:flex-row xs:items-start xl:justify-between lg:justify-between xs:justify-start">
         <span class="footer-bottom-title text-[20px] xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]">Аккредитованная IT-компания</span>
         <div class="flex items-center gap-[40px]">
-          <a href="https://else-digital.ru/assets/data/Презентация_ELSE_Полная.pdf" target="_blank" rel="noopener noreferrer" class="footer-bottom-text xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]"><span class="link-wrapper cursor-pointer"><span class="link-current">Презентация</span><span class="link-hover" aria-hidden="true">Презентация</span></span></a><a class="footer-bottom-text text-[20px] xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]" href="https://else-digital.ru/requisites/"><span class="link-wrapper cursor-pointer"><span class="link-current">Реквизиты</span><span class="link-hover" aria-hidden="true">Реквизиты</span></span></a>
+          <a href="https://else-digital.ru/assets/data/Презентация_ELSE_Полная.pdf" target="_blank" rel="noopener noreferrer" class="footer-bottom-text xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]"><span class="link-wrapper cursor-pointer"><span class="link-current">Презентация</span><span class="link-hover" aria-hidden="true">Презентация</span></span></a><a class="footer-bottom-text text-[20px] xl:text-[20px] lg:text-[16px] md:text-[16px] sm:text-[16px] xs:text-[15px]" href="/requisites/"><span class="link-wrapper cursor-pointer"><span class="link-current">Реквизиты</span><span class="link-hover" aria-hidden="true">Реквизиты</span></span></a>
         </div>
       </div>
     </div>
